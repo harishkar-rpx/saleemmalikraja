@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 
 
 ![I am front-end developer and a passionate trainer ](https://github.com/saleemmalikraja/saleemmalikraja/blob/master/images/first-banner-github-readme.png)
-<!-->
+<!--
 ### Hi there 👋, my name is Saleem Malik
 #### I am front-end developer and a passionate trainer 
 -->
 Skills: Angular / Typescript / JS / HTML / CSS / Azure
 
-<!-->
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
